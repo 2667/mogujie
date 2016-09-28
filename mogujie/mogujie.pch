@@ -1,0 +1,40 @@
+/**
+ *
+ * ......................我佛慈悲.......................
+ *                       _oo0oo_
+ *                      o8888888o
+ *                      88" . "88
+ *                      (| -_- |)
+ *                      0\  =  /0
+ *                    ___/`---'\___
+ *                  .' \\|     |// '.
+ *                 / \\|||  :  |||// \
+ *                / _||||| -卍-|||||- \
+ *               |   | \\\  -  /// |   |
+ *               | \_|  ''\---/''  |_/ |
+ *               \  .-\__  '-'  ___/-. /
+ *             ___'. .'  /--.--\  `. .'___
+ *          ."" '<  `.___\_<|>_/___.' >' "".
+ *         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+ *         \  \ `_.   \_ __\ /__ _/   .-` /  /
+ *     =====`-.____`.___ \_____/___.-`___.-'=====
+ *                       `=---='
+ *
+ *..................佛祖开光 ,永无BUG....................
+ *         CSDN博客:http://blog.csdn.net/song5347
+ *       github地址:https://github.com/lingsuiderongyan
+ *             邮箱:lingsuiderongyan@163.com
+ */
+
+#ifndef mogujie_pch
+#define mogujie_pch
+
+#import "LSConst.h"
+#import "UIView+frame.h"
+
+#define screenW [UIScreen mainScreen].bounds.size.width
+#define screenH [UIScreen mainScreen].bounds.size.height
+
+#define randomColor [UIColor colorWithRed:((float)arc4random_uniform(256) / 255.0) green:((float)arc4random_uniform(256) / 255.0) blue:((float)arc4random_uniform(256) / 255.0) alpha:1.0]
+
+#endif /* mogujie_pch */
