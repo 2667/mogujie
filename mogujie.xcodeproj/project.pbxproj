@@ -528,7 +528,7 @@
 				TargetAttributes = {
 					0F8E7E861BF57B0200DCD984 = {
 						CreatedOnToolsVersion = 7.1.1;
-						DevelopmentTeam = BQPUY82CL4;
+						DevelopmentTeam = KPZB7A4HR4;
 					};
 				};
 			};
@@ -741,6 +741,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = mogujie/mogujie.pch;
 				INFOPLIST_FILE = mogujie/Info.plist;
@@ -760,6 +761,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = mogujie/mogujie.pch;
 				INFOPLIST_FILE = mogujie/Info.plist;
